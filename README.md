@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋 I'm Mohammed Muqeetuddin Mateen 
 
-<!--
-**mateen-7/mateen-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BTech Student | 🚀 Aspiring Developer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Currently pursuing BTech
+- 🌱 Learning **Python & Programming**
+- 💡 Interested in **Technology & Problem Solving**
+- 📫 Reach me at: mateen7jr@gmail.com
+
+---
+
+## 🛠️ Skills
+- Python
+- C / C++
+- Git & GitHub
+- VS Code
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/mohammed-muqeetuddin-mateen
+- GitHub: https://github.com/mateen-7
+
+---
